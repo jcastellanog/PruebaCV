@@ -5,9 +5,9 @@
         static void Main(string[] args)
         {
             // VARIABLES
-
+            string saludo;
             // ENTRADA
-
+            
             // PROCESO
 
             // SALIDA
