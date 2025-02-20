@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             // VARIABLES
-            string saludo;
+            string nombreCompleto;
+            float nota;
             // ENTRADA
             
             // PROCESO
